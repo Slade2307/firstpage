@@ -111,10 +111,13 @@ h3 {
 }
 .footer-link {
   text-decoration: none;
-  margin: 10px;
+  margin: 10px 20px;
 }
 .copy {
   color: white;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+a:hover {
+  color: #def3f3;
 }
